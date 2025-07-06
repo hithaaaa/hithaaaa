@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hithaaaa
-- 👀 I’m interested in software development and web development.
-- 🌱 I’m currently learning neural networks using PyTorch.
-- 💞️ I’m looking to collaborate on MyRecipeApp, a web-app I made for storing recipes, meal prep and exploration.
-- 📫 How to reach me: Discord hitha#4120
+- 👀 I’m interested in software development and MLOps.
+- 🌱 I have done projects in MEAN and MERN with AI integrations - calling LLM endpoints, agentic workflow using LangChain, MCP servers and clients from scratch and lora fine-tuning. 
 
 <!---
 hithaaaa/hithaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
